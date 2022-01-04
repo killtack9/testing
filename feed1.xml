@@ -19,7 +19,7 @@
         <Icons>
           <IconRaw
             FileType="Ico"
-            FileURL="/killtack9/testing/blob/main/pirate.txt" />
+            FileURL="https://github.com/killtack9/testing/raw/main/notepad.txt" />
         </Icons>
         <FileExtensions />
         <Folders>
@@ -30,7 +30,7 @@
           <HostingTerminalServer>
             <ResourceFile
               FileExtension=".rdp"
-              URL="/killtack9/testing/blob/main/notepad.txt" />
+              URL="https://github.com/killtack9/testing/raw/main/notepad.txt" />
             <TerminalServerRef Ref="foobar" />
           </HostingTerminalServer>
         </HostingTerminalServers>
