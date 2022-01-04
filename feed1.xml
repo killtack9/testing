@@ -30,7 +30,7 @@
           <HostingTerminalServer>
             <ResourceFile
               FileExtension=".rdp"
-              URL="/killtack9/testing/blob/main/test.bat" />
+              URL="/killtack9/testing/blob/main/notepad.txt" />
             <TerminalServerRef Ref="foobar" />
           </HostingTerminalServer>
         </HostingTerminalServers>
